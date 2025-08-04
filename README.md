@@ -31,7 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="50" height="50" alt="Eclipse" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
-  <img src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fwww.hatimeria.com%2Fservices%2Fvercel&psig=AOvVaw1CnuD0x2ZIdvm7GreR5pun&ust=1754396671898000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIi_kYWT8Y4DFQAAAAAdAAAAABAJ"  alt="Vercel" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ffree-icon%2Fvercel-13103628_10673436&psig=AOvVaw1CnuD0x2ZIdvm7GreR5pun&ust=1754396671898000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIi_kYWT8Y4DFQAAAAAdAAAAABAY"  alt="Vercel" />
 </p>
 
 ---
