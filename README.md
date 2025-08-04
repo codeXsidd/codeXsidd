@@ -2,8 +2,8 @@
 
 
 
-# 👨‍💻 About Me
-
+<img align='right' width=390 height=290 src=https://pin.it/54wPhmCtf>
+ 
 🎓 **Student at [St. Joseph's Institute of Technology](https://stjosephstechnology.ac.in/)**  
 📘 I’m currently learning **Data Structures and Algorithms (DSA)**  
 🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/your-siddharth2006/)  
