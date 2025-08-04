@@ -49,14 +49,13 @@
 
 ---
 
-##Coding Profiles
+## Coding Profiles
 
-[SkillRack Profile](https://skillrack.com/profile/)
+SkillRack
 
-[GeeksforGeeks
+[View My ### Profile](https://www.skillrack.com/faces /ui/profile.xhtml?user=siddharth2006)
 
-Profile](https://auth.geeksforgeeks.org
-/user/your-gfg-username
+[View My GFG ### GeeksforGeeks Profile](https://www.geeksforgeeks.org/user/siddhartekma/)
 
 ---
 
