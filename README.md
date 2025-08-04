@@ -19,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg](https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000)" width="50" height="50" alt="MySQL" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" width="50" height="50" alt="Arduino" />
 </p>
 
@@ -31,7 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="50" height="50" alt="Eclipse" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
-  <img src="https://img.icons8.com/?size=100&id=2xFS7aynbwiR&format=png&color=000000" width="50" height="50" alt="Vercel" />
+  <img src="[https://img.icons8.com/?size=100&id=2xFS7aynbwiR&format=png&color=000000](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hatimeria.com%2Fservices%2Fvercel&psig=AOvVaw1CnuD0x2ZIdvm7GreR5pun&ust=1754396671898000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIi_kYWT8Y4DFQAAAAAdAAAAABAJ)"  alt="Vercel" />
 </p>
 
 ---
