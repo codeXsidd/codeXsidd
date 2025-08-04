@@ -66,10 +66,10 @@
 - 💻 Languages Used: Python, Java,C
 
 ### 📚 GeeksforGeeks
-- 🔗 [View My GFG Profile](https://www.geeksforgeeks.org/user/siddhartekma/)
+- 🔗 [View My GFG Profile](https://www.geeksforgeeks.org/user/siddharth2006/)
 - 💻 Languages Used: Python, Java
 <p align="left">
-  <img src="https://gfgstatscard.vercel.app/siddhartekma?theme=dark" alt="graph" />
+  <img src="https://gfgstatscard.vercel.app/siddharth2006?theme=dark" alt="graph" />
  </p>
 
 ---
