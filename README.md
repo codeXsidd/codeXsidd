@@ -53,7 +53,7 @@
 
 SkillRack
 
-[View My ### Profile](https://www.skillrack.com/faces /ui/profile.xhtml?user=siddharth2006)
+[View My ### Profile](https://www.skillrack.com/faces/ui/profile.xhtml?user=siddharth2006)
 
 [View My GFG ### GeeksforGeeks Profile](https://www.geeksforgeeks.org/user/siddhartekma/)
 
