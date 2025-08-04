@@ -52,6 +52,7 @@
 
 ### 🧠 SkillRack
 - 🔗 [View My Profile](https://www.skillrack.com/faces/resume.xhtml?id=493823&key=siddharth2006)
+- 💻 Languages Used: Python, Java,C,
 
 ### 📚 GeeksforGeeks
 - 🔗 [View My GFG Profile](https://www.geeksforgeeks.org/user/siddhartekma/)
