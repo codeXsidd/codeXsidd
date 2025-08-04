@@ -31,7 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40" alt="Eclipse" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
-  <img src="https://avatars.githubusercontent.com/u/39976035?s=200&v=4" width="40" alt="Vercel" />
+  <img src="https://img.icons8.com/?size=100&id=2xFS7aynbwiR&format=png&color=000000" width="40" alt="Vercel" />
 </p>
 
 ---
