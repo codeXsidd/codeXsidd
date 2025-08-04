@@ -2,12 +2,11 @@
 
 
 
-
 # 👨‍💻 About Me
 
-- 🎓 **Student at [St. Joseph's Institute of Technology](https://stjosephstechnology.ac.in/)**  
-- 📘 I’m currently learning **Data Structures and Algorithms (DSA)**  
-- 🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/siddharth2006/)  
+🎓 **Student at [St. Joseph's Institute of Technology](https://stjosephstechnology.ac.in/)**  
+📘 I’m currently learning **Data Structures and Algorithms (DSA)**  
+🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/your-siddharth2006/)  
 
 ---
 
@@ -49,15 +48,15 @@
 
 ---
 
-## Coding Profiles
+## 💡 Coding Profiles
 
-SkillRack
+### 🧠 SkillRack
+- 🔗 [View My Profile](https://www.skillrack.com/faces/resume.xhtml?id=493823&key=siddharth2006)
 
-[View My ### Profile](https://www.skillrack.com/faces/ui/profile.xhtml?user=siddharth2006)
-
-[View My GFG ### GeeksforGeeks Profile](https://www.geeksforgeeks.org/user/siddhartekma/)
+### 📚 GeeksforGeeks
+- 🔗 [View My GFG Profile](https://www.geeksforgeeks.org/user/siddhartekma/)
+- 💻 Languages Used: Python, Java
 
 ---
 
 🌟 *Thanks for visiting my profile!*
-
