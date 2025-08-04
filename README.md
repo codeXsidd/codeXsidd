@@ -9,9 +9,9 @@
 
 📘 I’m currently learning **Data Structures and Algorithms (DSA)**  
 
-🤝 Looking to collaborate on Innovative Open Source Projects
+🚀 Looking To turn caffeine into code by cracking tough algorithms, building cool full-stack apps, contributing to open source, and making compiler dance to my commands!
 
-⚡ Fun fact: Introvert with extroverted coding skills
+⚡ Fun fact: I write pseudocode in my dreams and wake up debugging it. 
 
 🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/your-siddharth2006/)  
 
