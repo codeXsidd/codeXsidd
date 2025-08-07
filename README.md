@@ -13,7 +13,7 @@
 
 ⚡ Fun fact: I write pseudocode in my dreams and wake up debugging it. 
 
-🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/your-siddharth2006/)  
+🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/siddharth2006/)  
 
 
 ### 💻 I Code In
