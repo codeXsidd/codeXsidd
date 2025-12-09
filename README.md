@@ -69,7 +69,7 @@
 - 🔗 [View My GFG Profile](https://www.geeksforgeeks.org/user/siddharth2006/)
 - 💻 Languages Used: Python, Java
 <p align="left">
-  <img src="https://gfgstatscard.vercel.app/siddharth2006?theme=dark" alt="gfg stats" />
+  <img src="[![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=siddharth2006)](https://github.com/napiyo/geeksForGeeksStatsAPI)" alt="gfg stats" />
  </p>
 
  ### 📜 LeetCode
