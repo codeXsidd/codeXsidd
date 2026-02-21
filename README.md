@@ -45,22 +45,32 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=codeXsidd&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+<br/>
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/codeXsidd?style=for-the-badge&label=Followers&color=8A2BE2" height="34" />
+<img 
+  src="https://img.shields.io/github/stars/codeXsidd?style=for-the-badge&label=Stars&color=9370DB" 
+  height="34" 
+/>
+
+<br/><br/>
+
+<img 
+  src="https://streak-stats.demolab.com?user=codeXsidd&theme=radical&hide_border=true" 
+  height="180" />
+</div>
+<br/>
+
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeXsidd&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeXsidd&bg_color=1f1e20&color=d35fcb&line=5abc4e&point=676565&area=true&hide_border=true" alt="graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeXsidd&bg_color=1f1e20&color=d35fcb&line=5abc4e&point=676565&area=true&hide_border=true" width="100%"  alt="graph" />
 </p>
 
 ---
 
 ## 💡 Coding Profiles
-
+ 
 ### 🧠 SkillRack
 - 🔗 [View My Profile](https://www.skillrack.com/faces/resume.xhtml?id=493823&key=siddharth2006)
 - 💻 Languages Used: Python, Java,C
@@ -72,12 +82,7 @@
   <img src="[![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=siddharth2006)](https://github.com/napiyo/geeksForGeeksStatsAPI)" alt="gfg stats" />
  </p>
 
- ### 📜 LeetCode
-- 🔗 [View My LeetCode Profile](https://leetcode.com/u/siddharth2912/)
-- 💻 Languages Used: Python, Java
-<p align="left">
-  <img src="https://leetcard.jacoblin.cool/siddharth2912?theme=dark&font=Marcellus&ext=heatmap" alt="leetcode stats" />
- </p>
+
  
 ---
 
