@@ -1,10 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Siddharth&fontSize=45&fontColor=ffffff&animation=fadeIn" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Engineering+Student;Java+Developer;Machine+Learning+Enthusiast;Building+Smart+Solutions+🚀" />
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=200&section=header&text=Siddharth%20S&fontSize=55&fontColor=00F5FF&animation=fadeIn&fontAlignY=35" width="100%" />
 
-![](https://komarev.com/ghpvc/?username=codeXsidd&color=blue&label=PROFILE+VIEWS)
+<br/>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Tech+Enthusiast;Passionate+About+Building+Scalable+%26+Intelligent+Solutions;Turning+Caffeine+Into+Code+🚀" />
 
+</div>
+
+<br/>
+
+![](https://komarev.com/ghpvc/?username=codeXsidd&label=PROFILE+VIEWS&color=000000&labelColor=1E1E1E&style=for-the-badge)
  
 ## 👨‍💻 About Me  
 
