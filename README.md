@@ -64,26 +64,91 @@
 
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeXsidd&bg_color=1f1e20&color=d35fcb&line=5abc4e&point=676565&area=true&hide_border=true" width="100%"  alt="graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeXsidd&bg_color=1f1e20&color=d35fcb&line=5abc4e&point=D3D3D3&area=true&hide_border=true" width="100%"  alt="graph" />
 </p>
 
 ---
 
 ## 💡 Coding Profiles
- 
-### 🧠 SkillRack
-- 🔗 [View My Profile](https://www.skillrack.com/faces/resume.xhtml?id=493823&key=siddharth2006)
-- 💻 Languages Used: Python, Java,C
+<br/>
+ <table align="center" style="border: none;">
+ <tr>
+      <!-- LeetCode Stats -->
+      <td align="center" width="50%">
+        <a href="https://leetcode.com/u/siddharth2912/">
+          <img src="https://leetcard.jacoblin.cool/siddharth2912?theme=dark&ext=heatmap" width="100%" />
+        </a>
+      </td>
+      <!-- CodeForces Stats -->
+      <td align="center" width="50%">
+        <a href="https://codeforces.com/profile/Siddhu291206">
+          <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Siddhu291206&theme=radical&hide_border=true&no-bg=true" width="100%" />
+        </a>
+      </td>
+    </tr>
 
-### 📚 GeeksforGeeks
-- 🔗 [View My GFG Profile](https://www.geeksforgeeks.org/user/siddharth2006/)
-- 💻 Languages Used: Python, Java
-<p align="left">
-  <img src="[![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=siddharth2006)](https://github.com/napiyo/geeksForGeeksStatsAPI)" alt="gfg stats" />
- </p>
+  </table>
+
+  <br/>
+  <br />
+  
+ <p>
+  <a href="https://leetcode.com/u/siddharth2912/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile - Competitive Programming"/>
+  </a>
+
+  <a href="https://www.codechef.com/users/">
+    <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile - Algorithm Problem Solving"/>
+  </a>
+
+  <a href="https://www.hackerrank.com/">
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile - Coding Challenges"/>
+  </a>
+
+  <a href="https://auth.geeksforgeeks.org/">
+    <img src="https://img.shields.io/badge/-GeeksForGeeks-298D35?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks Profile - Data Structures & Algorithms"/>
+  </a>
+
+  <a href="https://atcoder.jp/users/">
+    <img src="https://img.shields.io/badge/-AtCoder-000000?style=for-the-badge&logoColor=white" alt="AtCoder Profile - Competitive Programming"/>
+  </a>
+
+  <a href="https://www.skillrack.com/">
+    <img src="https://img.shields.io/badge/-Skillrack-FF6F00?style=for-the-badge&logoColor=white" alt="Skillrack Profile - Programming Practice"/>
+  </a>
+
+  <a href="https://codeforces.com/profile/">
+    <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile - Competitive Programming"/>
+  </a>
+
+  <a href="https://www.naukri.com/">
+    <img src="https://img.shields.io/badge/-Naukri.com-0077B5?style=for-the-badge&logoColor=white" alt="Naukri Profile - Job Portal"/>
+  </a>
+
+  <a href="https://www.hackerearth.com/">
+    <img src="https://img.shields.io/badge/-HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth Profile - Coding Contests"/>
+  </a>
+</p>
+  
+  <br />
 
 
  
 ---
 
-🌟 *Thanks for visiting my profile!*
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Keep+Learning+Keep+Building+🚀;Let's+Connect+and+Grow+Together+🔥" />
+</p>
+
+<!-- wave-->
+
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,50:00c6ff,100:43e97b&height=120&section=footer&reversal=true&animation=fadeIn"
+    width="100%"
+  />
+</p>
+
+
+
+<!-- End Footer -->
