@@ -1,44 +1,76 @@
-## Hi there 👋 It's me Siddharth
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Siddharth&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Engineering+Student;Java+Developer;Machine+Learning+Enthusiast;Building+Smart+Solutions+🚀" />
+
 
 ![](https://komarev.com/ghpvc/?username=codeXsidd&color=blue&label=PROFILE+VIEWS)
 
-<img align="right" width="390" height="290" src="https://camo.githubusercontent.com/7cab7453b50c32be4c3605a42cb5e509644666999796555e759d06a9facf6b4a/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" />
+
  
-🎓 **Currently pursuing the second year of a B.Tech in Information Technology
-      at [St. Joseph's Institute of Technology](https://stjosephstechnology.ac.in/)**  
+## 👨‍💻 About Me  
 
-📘 I’m currently learning **Data Structures and Algorithms (DSA)**  
+<img align="right" width="390" height="290" src="https://camo.githubusercontent.com/7cab7453b50c32be4c3605a42cb5e509644666999796555e759d06a9facf6b4a/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" />
 
-🚀 Looking To turn caffeine into code by cracking tough algorithms, building cool full-stack apps, contributing to open source, and making compiler dance to my commands!
+🎓 Second Year B.Tech IT Student  
+🏫 St. Joseph's Institute of Technology  
 
-⚡ Fun fact: I write pseudocode in my dreams and wake up debugging it. 
+📘 Currently mastering **Data Structures & Algorithms**  
 
-🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/siddharth2006/)  
+🚀 Passionate about:
+- Cracking tough algorithms  
+- Building full-stack applications  
+- Machine Learning projects  
+- Open-source contributions  
+
+⚡ Fun Fact:  
+I write pseudocode in my dreams and wake up debugging it 😆  
+
+🔗 Connect with me:  
+  <!-- Bigger Buttons -->
+
+  
+  <p>
+   <a href="https://github.com/codeXsidd">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" height="45" width="120"/>
+</a>
+    &nbsp;
+   &nbsp;
+   <a href="https://linkedin.com/in/siddharth2006">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="45" width="100"/>
+</a>
+    &nbsp;
+   &nbsp;
+    <a href="mailto:siddharth291206@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" height="45" width="100"/>
+</a>
+    &nbsp;
+   &nbsp;
+<a href="https://itz-sidh.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=000000" height="45" width="140"/>
+</a>
+  </p>
+</div>
 
 
-### 💻 I Code In
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
-  <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" width="50"  height="50" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
-  <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" width="50" height="50" alt="MySQL" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" width="50" height="50" alt="Arduino" />
+<br />
+
+
+---
+
+# 💻 Tech Stack
+
+### 🚀 Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,mysql,arduino" />
 </p>
 
+---
 
+### 🧰 Tools & IDEs
 
-### 🧰 IDEs & Tools I Use
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="50" height="50" alt="Eclipse" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
-  <img src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" width="50" height="50" alt="Jupyter" />
-  <img src="https://img.icons8.com/?size=100&id=2xFS7aynbwiR&format=png&color=12B886" height="50" width="50" alt="Vercel" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,vercel,jupyter" />
 </p>
 
 ---
@@ -96,35 +128,37 @@
   <a href="https://leetcode.com/u/siddharth2912/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile - Competitive Programming"/>
   </a>
-
+&nbsp;
   <a href="https://www.codechef.com/users/">
     <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile - Algorithm Problem Solving"/>
   </a>
-
+&nbsp;
   <a href="https://www.hackerrank.com/">
     <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile - Coding Challenges"/>
   </a>
-
+&nbsp;
   <a href="https://auth.geeksforgeeks.org/">
     <img src="https://img.shields.io/badge/-GeeksForGeeks-298D35?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks Profile - Data Structures & Algorithms"/>
   </a>
-
+  &nbsp;
   <a href="https://atcoder.jp/users/">
     <img src="https://img.shields.io/badge/-AtCoder-000000?style=for-the-badge&logoColor=white" alt="AtCoder Profile - Competitive Programming"/>
   </a>
-
+ </p>
+ 
+  <p>
   <a href="https://www.skillrack.com/">
     <img src="https://img.shields.io/badge/-Skillrack-FF6F00?style=for-the-badge&logoColor=white" alt="Skillrack Profile - Programming Practice"/>
   </a>
-
+&nbsp;
   <a href="https://codeforces.com/profile/">
     <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile - Competitive Programming"/>
   </a>
-
+&nbsp;
   <a href="https://www.naukri.com/">
     <img src="https://img.shields.io/badge/-Naukri.com-0077B5?style=for-the-badge&logoColor=white" alt="Naukri Profile - Job Portal"/>
   </a>
-
+&nbsp;
   <a href="https://www.hackerearth.com/">
     <img src="https://img.shields.io/badge/-HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth Profile - Coding Contests"/>
   </a>
