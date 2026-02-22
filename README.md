@@ -135,37 +135,37 @@ I write pseudocode in my dreams and wake up debugging it 😆
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile - Competitive Programming"/>
   </a>
 &nbsp;
-  <a href="https://www.codechef.com/users/">
+  <a href="https://www.codechef.com/users/siddhu291206">
     <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile - Algorithm Problem Solving"/>
   </a>
 &nbsp;
-  <a href="https://www.hackerrank.com/">
+  <a href="https://www.hackerrank.com/profile/siddharth2006">
     <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile - Coding Challenges"/>
   </a>
 &nbsp;
-  <a href="https://auth.geeksforgeeks.org/">
+  <a href="https://www.geeksforgeeks.org/profile/siddharth2006?tab=activity">
     <img src="https://img.shields.io/badge/-GeeksForGeeks-298D35?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks Profile - Data Structures & Algorithms"/>
   </a>
   &nbsp;
-  <a href="https://atcoder.jp/users/">
+  <a href="https://atcoder.jp/users/siddharth2006">
     <img src="https://img.shields.io/badge/-AtCoder-000000?style=for-the-badge&logoColor=white" alt="AtCoder Profile - Competitive Programming"/>
   </a>
  </p>
  
   <p>
-  <a href="https://www.skillrack.com/">
+  <a href="http://www.skillrack.com/profile/493823/siddharth2006">
     <img src="https://img.shields.io/badge/-Skillrack-FF6F00?style=for-the-badge&logoColor=white" alt="Skillrack Profile - Programming Practice"/>
   </a>
 &nbsp;
-  <a href="https://codeforces.com/profile/">
+  <a href="https://codeforces.com/profile/Siddhu291206">
     <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile - Competitive Programming"/>
   </a>
 &nbsp;
-  <a href="https://www.naukri.com/">
+  <a href="https://www.naukri.com/code360/profile/sidh">
     <img src="https://img.shields.io/badge/-Naukri.com-0077B5?style=for-the-badge&logoColor=white" alt="Naukri Profile - Job Portal"/>
   </a>
 &nbsp;
-  <a href="https://www.hackerearth.com/">
+  <a href="https://www.hackerearth.com/siddhu291206">
     <img src="https://img.shields.io/badge/-HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth Profile - Coding Contests"/>
   </a>
 </p>
@@ -184,7 +184,7 @@ I write pseudocode in my dreams and wake up debugging it 😆
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,50:00c6ff,100:43e97b&height=120&section=footer&reversal=true&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,50:00c6ff,100:43e97b&height=100&section=footer&reversal=true&animation=fadeIn"
     width="100%"
   />
 </p>
