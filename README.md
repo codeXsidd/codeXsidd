@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=220&section=header&text=Siddharth%20S&fontSize=55&fontColor=00F5FF&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=200&section=header&text=Siddharth%20S&fontSize=55&fontColor=00F5FF&animation=fadeIn&fontAlignY=35" width="100%" />
 
 <br/>
 
@@ -14,7 +14,7 @@
  
 ## 👨‍💻 About Me  
 
-<img align="right" width="390" height="290" src="https://camo.githubusercontent.com/7cab7453b50c32be4c3605a42cb5e509644666999796555e759d06a9facf6b4a/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" />
+<img align="right" width="390" height="290" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"  alt= "code gif" />
 
 🎓 Second Year B.Tech IT Student  
 🏫 St. Joseph's Institute of Technology  
@@ -31,8 +31,6 @@
 I write pseudocode in my dreams and wake up debugging it 😆  
 
 🔗 Connect with me:  
-  <!-- Bigger Buttons -->
-
   
   <p>
    <a href="https://github.com/codeXsidd">
@@ -139,17 +137,18 @@ I write pseudocode in my dreams and wake up debugging it 😆
     <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile - Algorithm Problem Solving"/>
   </a>
 &nbsp;
-  <a href="https://www.hackerrank.com/profile/siddharth2006">
-    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile - Coding Challenges"/>
+  <a href="https://codeforces.com/profile/Siddhu291206">
+    <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile - Competitive Programming"/>
   </a>
 &nbsp;
-  <a href="https://www.geeksforgeeks.org/profile/siddharth2006?tab=activity">
-    <img src="https://img.shields.io/badge/-GeeksForGeeks-298D35?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks Profile - Data Structures & Algorithms"/>
-  </a>
-  &nbsp;
   <a href="https://atcoder.jp/users/siddharth2006">
     <img src="https://img.shields.io/badge/-AtCoder-000000?style=for-the-badge&logoColor=white" alt="AtCoder Profile - Competitive Programming"/>
   </a>
+  &nbsp;
+  <a href="https://www.geeksforgeeks.org/profile/siddharth2006?tab=activity">
+    <img src="https://img.shields.io/badge/-GeeksForGeeks-298D35?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks Profile - Data Structures & Algorithms"/>
+  </a>
+  
  </p>
  
   <p>
@@ -157,8 +156,8 @@ I write pseudocode in my dreams and wake up debugging it 😆
     <img src="https://img.shields.io/badge/-Skillrack-FF6F00?style=for-the-badge&logoColor=white" alt="Skillrack Profile - Programming Practice"/>
   </a>
 &nbsp;
-  <a href="https://codeforces.com/profile/Siddhu291206">
-    <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile - Competitive Programming"/>
+    <a href="https://www.hackerrank.com/profile/siddharth2006">
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile - Coding Challenges"/>
   </a>
 &nbsp;
   <a href="https://www.naukri.com/code360/profile/sidh">
@@ -184,7 +183,7 @@ I write pseudocode in my dreams and wake up debugging it 😆
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,50:00c6ff,100:43e97b&height=100&section=footer&reversal=true&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,50:00c6ff,100:43e97b&height=105&section=footer&reversal=true&animation=fadeIn"
     width="100%"
   />
 </p>
