@@ -141,7 +141,7 @@ I write pseudocode in my dreams and wake up debugging it 😆
     <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile - Competitive Programming"/>
   </a>
 &nbsp;
-  <a href="https://atcoder.jp/users/siddharth2006">
+  <a href="https://atcoder.jp/users/Siddhu291206">
     <img src="https://img.shields.io/badge/-AtCoder-000000?style=for-the-badge&logoColor=white" alt="AtCoder Profile - Competitive Programming"/>
   </a>
   &nbsp;
