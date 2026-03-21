@@ -81,6 +81,11 @@ I write pseudocode in my dreams and wake up debugging it 😆
 <img src="https://img.shields.io/github/stars/codeXsidd?style=for-the-badge&label=Stars&color=9370DB" height="34"/>
 
 <br/><br/>
+<p align="center">
+ <img src="https://streak-stats.demolab.com?user=codeXsidd&theme=radical&hide_border=true" height="370"/>
+</p>
+
+<br/>
 
 <!-- ✅ FIXED TABLE STRUCTURE -->
 <table>
@@ -92,12 +97,12 @@ I write pseudocode in my dreams and wake up debugging it 😆
 </td>
 
 <td align="center" width="50%">
-<img src="https://streak-stats.demolab.com?user=codeXsidd&theme=radical&hide_border=true" height="370"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=codeXsidd&show_icons=true&theme=radical&hide_border=true&border_radius=10" height="180"/>
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeXsidd&theme=github_dark" />
 </td>
 
 </tr>
 </table>
-
 </div>
 <br/>
 
