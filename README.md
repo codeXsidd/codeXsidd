@@ -97,7 +97,7 @@ I write pseudocode in my dreams and wake up debugging it 😆
 </td>
 
 <td align="center" width="50%">
- <img src="https://github-readme-stats.vercel.app/api?username=codeXsidd&show_icons=true&theme=radical&hide_border=true&border_radius=10" height="180"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=codeXsidd&show_icons=true&theme=radical&hide_border=true&border_radius=10" alt="stats" height="180"/>
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeXsidd&theme=github_dark" />
 </td>
 
