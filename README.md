@@ -16,7 +16,7 @@
 
 <img align="right" width="390" height="290" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"  alt= "code gif" />
 
-🎓 Second Year B.Tech IT Student  
+🎓 Prefinal Year B.Tech IT Student  
 🏫 St. Joseph's Institute of Technology  
 
 📘 Currently mastering **Data Structures & Algorithms**  
