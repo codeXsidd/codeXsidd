@@ -177,19 +177,16 @@ I write pseudocode in my dreams and wake up debugging it 😆
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open_Source-%E2%9D%A4-ff1493?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open_to-Collaboration-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Contributor-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/PRs-Merged-8957e5?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-> *"Passionate about building scalable tools, contributing to open-source software, and collaborating with developer communities."*
+### 🔴 [redis/node-redis](https://github.com/redis/node-redis) — *Official Node.js Redis Client*
 
-### 💡 Featured Projects & Contributions
-
-| Repository / Project | Description | Core Stack | Status |
+| Pull Request | Contribution & Impact | Core Tech | Status |
 | :--- | :--- | :--- | :---: |
-| **[Studivexa](https://github.com/codeXsidd/Studivexa)** | AI-powered productivity workspace for students with gamified focus & smart analytics | `React` `Node.js` `AI` | 🚀 Active |
-| **[codeXsidd](https://github.com/codeXsidd/codeXsidd)** | Interactive GitHub profile OS with automated CI/CD workflows | `GitHub Actions` `Markdown` | 🟢 Maintained |
-| **Community Contributions** | Actively exploring good-first-issues, bug fixes, and feature PRs | `Python` `JavaScript` `FastAPI` | 🔍 Open to PRs |
+| **[#3453](https://github.com/redis/node-redis/pull/3453)** | **examples: add fixed-window rate-limiter using INCR and EXPIRE**<br/>Implemented atomic `client.multi()` transaction recipe to prevent key leak race conditions, proper client lifecycle management, and recipe index documentation. | `Redis` `Node.js` `JavaScript` | 🟣 **Merged** |
+| **[#3452](https://github.com/redis/node-redis/pull/3452)** | **docs: clarify config tables, fix typos, and align JSDoc examples**<br/>Clarified configuration references, corrected typos in config tables, and aligned JSDoc code examples for developers. | `JSDoc` `Node.js` `Docs` | 🟣 **Merged** |
 
 ---
 
