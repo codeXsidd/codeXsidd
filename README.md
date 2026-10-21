@@ -56,19 +56,60 @@ I write pseudocode in my dreams and wake up debugging it 😆
 
 # 💻 Tech Stack
 
-### 🚀 Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,mysql,arduino" />
-</p>
-
----
-
-### 🧰 Tools & IDEs
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,vercel,jupyter" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <h4><code>&lt;&gt;</code> PROGRAMMING LANGUAGES</h4>
+      <img src="https://skillicons.dev/icons?i=python,javascript,java,c,cpp,mysql" /><br/><br/>
+      <sub><b>Python • JavaScript (ES6+) • Java • C • C++ (Learning) • SQL</b></sub>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <h4>🖥️ FRONTEND DEVELOPMENT</h4>
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap" /><br/><br/>
+      <sub><b>HTML5 • CSS3 • JavaScript (Vanilla) • React.js • Bootstrap 5 • Responsive Design</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <h4>🗄️ BACKEND DEVELOPMENT</h4>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" /><br/><br/>
+      <sub><b>Node.js • Express.js • FastAPI • REST APIs • JSON • HTTP / HTTPS</b></sub>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <h4>🛢️ DATABASES</h4>
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase" /><br/><br/>
+      <sub><b>MySQL • MongoDB • Supabase</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <h4>💡 AI / MACHINE LEARNING</h4>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /><br/><br/>
+      <sub><b>Machine Learning • Data Analysis • NumPy • Pandas • Scikit-learn</b></sub>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <h4>☁️ CLOUD & DEVOPS</h4>
+      <img src="https://skillicons.dev/icons?i=docker,aws" /><br/><br/>
+      <sub><b>Docker • AWS</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <h4>🔧 TOOLS & PLATFORMS</h4>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,nodejs,npm,vercel" /><br/><br/>
+      <sub><b>Git • GitHub • VS Code • Postman • Figma • Node.js / npm • Vercel • GitHub Pages</b></sub>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <h4>🎛️ HARDWARE & IOT</h4>
+      <img src="https://skillicons.dev/icons?i=arduino" />
+      <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+      <img src="https://img.shields.io/badge/Blynk_IoT-24C48E?style=for-the-badge&logoColor=white" /><br/><br/>
+      <sub><b>ESP32 • Arduino • Blynk IoT • Sensor Integration</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -109,6 +150,26 @@ I write pseudocode in my dreams and wake up debugging it 😆
 <p align="left">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeXsidd&bg_color=1f1e20&color=d35fcb&line=5abc4e&point=D3D3D3&area=true&hide_border=true" width="100%"/>
 </p>
+
+<br/>
+
+### 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codeXsidd/codeXsidd/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codeXsidd/codeXsidd/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/codeXsidd/codeXsidd/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+</div>
+
+---
+
+## ⚡ Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+*⚡ Loading latest GitHub activity... (updated automatically via GitHub Actions)*
+<!--END_SECTION:activity-->
 
 ---
 
