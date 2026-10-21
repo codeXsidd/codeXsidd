@@ -116,7 +116,61 @@
 
 ---
 
+## 🚀 Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/codeXsidd/Studivexa">⚡ Studivexa</a>
+      </h3>
+      <p>An ultra-premium, AI-powered productivity workspace for students & developers — featuring gamified learning, smart <b>CodeInsight AI</b>, deep focus rooms, and analytics.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white"/>
+      </p>
+      <p>
+        <a href="https://github.com/codeXsidd/Studivexa">
+          <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github"/>
+        </a>
+        &nbsp;
+        <a href="https://studivexa.vercel.app">
+          <img src="https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/codeXsidd/studymate">📚 StudyMate</a>
+      </h3>
+      <p>An interactive AI-powered study platform and assistant — helping students learn smarter with intelligent Q&A, study tools, and an intuitive interface.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      </p>
+      <p>
+        <a href="https://github.com/codeXsidd/studymate">
+          <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github"/>
+        </a>
+        &nbsp;
+        <a href="https://studymate-beta-six.vercel.app">
+          <img src="https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📊 GitHub Stats
+
 
 <div align="center">
 
