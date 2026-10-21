@@ -173,6 +173,26 @@ I write pseudocode in my dreams and wake up debugging it 😆
 
 ---
 
+## 🤝 Open Source Contributions
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open_Source-%E2%9D%A4-ff1493?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_to-Collaboration-blueviolet?style=for-the-badge" />
+</p>
+
+> *"Passionate about building scalable tools, contributing to open-source software, and collaborating with developer communities."*
+
+### 💡 Featured Projects & Contributions
+
+| Repository / Project | Description | Core Stack | Status |
+| :--- | :--- | :--- | :---: |
+| **[Studivexa](https://github.com/codeXsidd/Studivexa)** | AI-powered productivity workspace for students with gamified focus & smart analytics | `React` `Node.js` `AI` | 🚀 Active |
+| **[codeXsidd](https://github.com/codeXsidd/codeXsidd)** | Interactive GitHub profile OS with automated CI/CD workflows | `GitHub Actions` `Markdown` | 🟢 Maintained |
+| **Community Contributions** | Actively exploring good-first-issues, bug fixes, and feature PRs | `Python` `JavaScript` `FastAPI` | 🔍 Open to PRs |
+
+---
+
 ## 💡 Coding Profiles
 
 <table align="center">
