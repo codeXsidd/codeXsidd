@@ -165,14 +165,6 @@ I write pseudocode in my dreams and wake up debugging it 😆
 
 ---
 
-## ⚡ Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2753](https://github.com/googleapis/google-api-python-client/issues/2753#issuecomment-6322697889) in [googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client)
-<!--END_SECTION:activity-->
-
----
-
 ## 🤝 Open Source Contributions
 
 <p align="center">
