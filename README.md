@@ -176,26 +176,16 @@ I write pseudocode in my dreams and wake up debugging it 😆
 ## 🤝 Open Source Contributions
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open_Source-%E2%9D%A4-ff1493?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Contributor-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Contributor-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/PRs-Merged-8957e5?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### 🟠 [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) — *Google's Machine Learning Framework*
-
-| Pull Request | Contribution & Impact | Core Tech | Status |
-| :--- | :--- | :--- | :---: |
-| **[#112909](https://github.com/tensorflow/tensorflow/pull/112909)** | **docs: Fix typo in core framework metrics**<br/>Corrected documentation and comment typos in debug metrics across `tensorflow/core/framework/metrics.h` and `metrics.cc`. | `C++` `TensorFlow Core` | 🟣 **Merged** |
-
-<br/>
-
-### 🔴 [redis/node-redis](https://github.com/redis/node-redis) — *Official Node.js Redis Client*
-
-| Pull Request | Contribution & Impact | Core Tech | Status |
-| :--- | :--- | :--- | :---: |
-| **[#3453](https://github.com/redis/node-redis/pull/3453)** | **examples: add fixed-window rate-limiter using INCR and EXPIRE**<br/>Implemented atomic `client.multi()` transaction recipe to prevent key leak race conditions, proper client lifecycle management, and recipe index documentation. | `Redis` `Node.js` `JavaScript` | 🟣 **Merged** |
-| **[#3452](https://github.com/redis/node-redis/pull/3452)** | **docs: clarify config tables, fix typos, and align JSDoc examples**<br/>Clarified configuration references, corrected typos in config tables, and aligned JSDoc code examples for developers across 7 files. | `JSDoc` `Node.js` `Docs` | 🟣 **Merged** |
+| Project | PR | Contribution | Status |
+| :--- | :---: | :--- | :---: |
+| **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** | **[#112909](https://github.com/tensorflow/tensorflow/pull/112909)** | Fixed typo in core framework metrics (`metrics.h`, `metrics.cc`) | 🟣 **Merged** |
+| **[redis/node-redis](https://github.com/redis/node-redis)** | **[#3453](https://github.com/redis/node-redis/pull/3453)** | Added atomic fixed-window rate limiter recipe (`INCR` & `EXPIRE`) | 🟣 **Merged** |
+| **[redis/node-redis](https://github.com/redis/node-redis)** | **[#3452](https://github.com/redis/node-redis/pull/3452)** | Clarified config tables and aligned JSDoc examples across 7 files | 🟣 **Merged** |
 
 ---
 
