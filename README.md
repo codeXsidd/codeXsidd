@@ -181,11 +181,22 @@ I write pseudocode in my dreams and wake up debugging it 😆
   <img src="https://img.shields.io/badge/PRs-Merged-8957e5?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-| Project | PR | Contribution | Status |
-| :--- | :---: | :--- | :---: |
-| **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** | **[#112909](https://github.com/tensorflow/tensorflow/pull/112909)** | Fixed typo in core framework metrics (`metrics.h`, `metrics.cc`) | 🟣 **Merged** |
-| **[redis/node-redis](https://github.com/redis/node-redis)** | **[#3453](https://github.com/redis/node-redis/pull/3453)** | Added atomic fixed-window rate limiter recipe (`INCR` & `EXPIRE`) | 🟣 **Merged** |
-| **[redis/node-redis](https://github.com/redis/node-redis)** | **[#3452](https://github.com/redis/node-redis/pull/3452)** | Clarified config tables and aligned JSDoc examples across 7 files | 🟣 **Merged** |
+I actively contribute to open-source projects by improving code quality, fixing bugs, enhancing documentation, and building developer-friendly solutions.
+
+### 🔹 TensorFlow
+
+| Pull Request | Contribution | Status |
+| :---: | :--- | :---: |
+| [#112909](https://github.com/tensorflow/tensorflow/pull/112909) | Fixed a typo in core framework metrics | ✅ Merged |
+
+### 🔹 Node Redis
+
+| Pull Request | Contribution | Status |
+| :---: | :--- | :---: |
+| [#3453](https://github.com/redis/node-redis/pull/3453) | Added an atomic fixed-window rate-limiter recipe | ✅ Merged |
+| [#3452](https://github.com/redis/node-redis/pull/3452) | Clarified configuration tables and aligned JSDoc examples across seven files | ✅ Merged |
+
+I’m continuously exploring new projects and contributing to the open-source community.
 
 ---
 
