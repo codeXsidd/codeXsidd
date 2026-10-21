@@ -167,28 +167,45 @@ I write pseudocode in my dreams and wake up debugging it 😆
 
 ## 🤝 Open Source Contributions
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Contributor-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Contributor-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/PRs-Merged-8957e5?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+> *I actively contribute to open-source projects by improving code quality, fixing bugs, enhancing documentation, and building developer-friendly solutions.*
 
-I actively contribute to open-source projects by improving code quality, fixing bugs, enhancing documentation, and building developer-friendly solutions.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+        &nbsp; tensorflow / tensorflow
+      </h4>
+      <ul>
+        <li>
+          <a href="https://github.com/tensorflow/tensorflow/pull/112909"><b>#112909</b></a>
+          — Fixed a typo in core framework metrics
+          &nbsp;<img src="https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git&logoColor=white"/>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        &nbsp; redis / node-redis
+      </h4>
+      <ul>
+        <li>
+          <a href="https://github.com/redis/node-redis/pull/3453"><b>#3453</b></a>
+          — Added atomic fixed-window rate-limiter using <code>INCR</code> & <code>EXPIRE</code>
+          &nbsp;<img src="https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git&logoColor=white"/>
+        </li>
+        <li>
+          <a href="https://github.com/redis/node-redis/pull/3452"><b>#3452</b></a>
+          — Clarified config tables & aligned JSDoc examples across 7 files
+          &nbsp;<img src="https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git&logoColor=white"/>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### 🔹 TensorFlow
-
-| Pull Request | Contribution | Status |
-| :---: | :--- | :---: |
-| [#112909](https://github.com/tensorflow/tensorflow/pull/112909) | Fixed a typo in core framework metrics | ✅ Merged |
-
-### 🔹 Node Redis
-
-| Pull Request | Contribution | Status |
-| :---: | :--- | :---: |
-| [#3453](https://github.com/redis/node-redis/pull/3453) | Added an atomic fixed-window rate-limiter recipe | ✅ Merged |
-| [#3452](https://github.com/redis/node-redis/pull/3452) | Clarified configuration tables and aligned JSDoc examples across seven files | ✅ Merged |
-
-I’m continuously exploring new projects and contributing to the open-source community.
+<p align="right"><i>🔍 Continuously exploring new projects and contributing to the open-source community.</i></p>
 
 ---
 
