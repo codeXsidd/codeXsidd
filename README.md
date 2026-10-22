@@ -29,6 +29,7 @@
 <br/>
 
 Fun Fact:
+<br/>
 ⚡ &nbsp;*I write pseudocode in my dreams and wake up debugging it* 😄
 
 <br/>
