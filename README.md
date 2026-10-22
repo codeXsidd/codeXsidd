@@ -10,7 +10,6 @@
 
 ![](https://komarev.com/ghpvc/?username=codeXsidd&label=PROFILE+VIEWS&color=000000&labelColor=1E1E1E&style=for-the-badge)
 
----
 
 ## 👨‍💻 About Me
 
