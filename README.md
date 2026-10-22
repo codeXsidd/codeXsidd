@@ -17,9 +17,9 @@
 <img align="right" width="370" height="275" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="coding gif" />
 
 🎓 &nbsp;**Pre-Final Year B.Tech IT Student**
-🏫 &nbsp;St. Joseph's Institute of Technology, Chennai
-
 <br/>
+🏫 St. Joseph's Institute of Technology, Chennai
+
 
 📌 &nbsp;**Currently Focused On:**
 - Mastering **Data Structures & Algorithms**
