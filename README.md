@@ -11,7 +11,7 @@
 ![](https://komarev.com/ghpvc/?username=codeXsidd&label=PROFILE+VIEWS&color=000000&labelColor=1E1E1E&style=for-the-badge)
 
 
-## 👨‍💻 About Me
+## 👨💻 About Me
 
 <img align="right" width="370" height="275" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="coding gif" />
 
@@ -193,16 +193,17 @@ Fun Fact:
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeXsidd&theme=github_dark" height="180"/>
 </td>
 <td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=codeXsidd&show_icons=true&theme=radical&hide_border=true&border_radius=10" alt="stats" height="180"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=codeXsidd&show_icons=true&theme=radical&hide_border=true&border_radius=10" alt="stats" height="180"/>
 <br/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeXsidd&theme=github_dark" />
 </td>
 </tr>
 </table>
 
+<!-- Temporarily commented out: github-readme-activity-graph service is currently suspended on Vercel (402)
 <br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeXsidd&bg_color=1f1e20&color=d35fcb&line=5abc4e&point=D3D3D3&area=true&hide_border=true" width="100%"/>
+-->
 
 </div>
 
