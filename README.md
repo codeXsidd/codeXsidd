@@ -11,7 +11,7 @@
 ![](https://komarev.com/ghpvc/?username=codeXsidd&label=PROFILE+VIEWS&color=000000&labelColor=1E1E1E&style=for-the-badge)
 
 
-## 👨💻 About Me
+## 💻 About Me
 
 <img align="right" width="370" height="275" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="coding gif" />
 
