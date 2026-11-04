@@ -179,35 +179,24 @@ Fun Fact:
 &nbsp;
 <img src="https://img.shields.io/github/stars/codeXsidd?style=for-the-badge&label=Stars&color=9370DB" height="32"/>
 
-<br/><br/>
+&nbsp;
 
 <img src="https://streak-stats.demolab.com?user=codeXsidd&theme=radical&hide_border=true" height="200"/>
 
-<br/><br/>
-
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeXsidd&theme=github_dark" height="180"/>
-<br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeXsidd&theme=github_dark" height="180"/>
-</td>
-<td align="center" width="50%">
-<img src="https://github-readme-stats-fast.vercel.app/api?username=codeXsidd&show_icons=true&theme=radical&hide_border=true&border_radius=10" alt="stats" height="180"/>
-<br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeXsidd&theme=github_dark" />
-</td>
-</tr>
+&nbsp;
+<table align="center">
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=codeXsidd&show_icons=true&theme=radical&hide_border=true&border_radius=10" height="195" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeXsidd&theme=github_dark" height="195" />
+    </td>
+  </tr>
 </table>
-
-<!-- Temporarily commented out: github-readme-activity-graph service is currently suspended on Vercel (402)
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codeXsidd&bg_color=1f1e20&color=d35fcb&line=5abc4e&point=D3D3D3&area=true&hide_border=true" width="100%"/>
--->
 
 </div>
 
-<br/>
 
 ### 🐍 Contribution Graph
 
