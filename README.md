@@ -229,6 +229,19 @@ Fun Fact:
   <tr>
     <td width="50%" valign="top">
       <h4>
+        <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" />
+        &nbsp; google / budoux
+      </h4>
+      <ul>
+        <li>
+          <a href="https://github.com/google/budoux/pull/1491"><b>#1491</b></a>
+          — Added validation to throw an error when unsupported language is passed to CLI via <code>-l</code> / <code>--lang</code>
+          &nbsp;<img src="https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git&logoColor=white"/>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
         &nbsp; tensorflow / tensorflow
       </h4>
@@ -240,6 +253,8 @@ Fun Fact:
         </li>
       </ul>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4>
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
@@ -257,6 +272,8 @@ Fun Fact:
           &nbsp;<img src="https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git&logoColor=white"/>
         </li>
       </ul>
+    </td>
+    <td width="50%" valign="top">
     </td>
   </tr>
 </table>
